@@ -1,4 +1,4 @@
-﻿<?
+<?
 
 /**
 * @author enCoo Developments © Vladyslav Halimskyi 2018
@@ -11,13 +11,13 @@ class DatabaseSettings {
 	{
 		// Database variables
 		// Host name
-		$settings['dbhost'] = 'localhost';
+		$settings['dbhost'] = ' ';
 		// Database name
-		$settings['dbname'] = 'db_workbench';
+		$settings['dbname'] = ' ';
 		// Username
-		$settings['dbusername'] = 'root';
+		$settings['dbusername'] = ' ';
 		// Password
-		$settings['dbpassword'] = '';
+		$settings['dbpassword'] = ' ';
 		
 		return $settings;
 	}
